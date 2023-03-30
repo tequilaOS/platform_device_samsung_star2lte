@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "platform_device_samsung_star2lte",
+    "target_path": "device/samsung/star2lte"
+  },
+  {
+    "repository": "WindowsDev0/vendor_samsung_star2lte-V2",
+    "target_path": "vendor/samsung/star2lte",
+  }
+]
